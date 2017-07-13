@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\android stdio\\NewsClient\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "C:\\android stdio\\NewsClient\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\android stdio\\NewsClient\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\android stdio\\NewsClient\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\android stdio\\NewsClient\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\android stdio\\NewsClient\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    }
+]

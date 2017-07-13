@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\android stdio\\NewsClient\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\android stdio\\NewsClient\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\android stdio\\NewsClient\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\android stdio\\NewsClient\\PullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\android stdio\\NewsClient\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\layout\\need_this_for_maven.xml",
+        "source": "C:\\android stdio\\NewsClient\\pullToRefreshListFragment\\src\\main\\res\\layout\\need_this_for_maven.xml"
+    }
+]

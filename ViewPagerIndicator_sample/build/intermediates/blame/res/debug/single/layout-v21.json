@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\android stdio\\NewsClient\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\linghao\\.android\\build-cache\\c269c315b8d8250197a4c141dc647a98ef2d6c61\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\android stdio\\NewsClient\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\linghao\\.android\\build-cache\\c269c315b8d8250197a4c141dc647a98ef2d6c61\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\android stdio\\NewsClient\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\linghao\\.android\\build-cache\\c269c315b8d8250197a4c141dc647a98ef2d6c61\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\android stdio\\NewsClient\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\linghao\\.android\\build-cache\\c269c315b8d8250197a4c141dc647a98ef2d6c61\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

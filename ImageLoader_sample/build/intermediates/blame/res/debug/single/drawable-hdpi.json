@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\android stdio\\NewsClient\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_empty.png",
+        "source": "C:\\android stdio\\NewsClient\\ImageLoader_sample\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
+    },
+    {
+        "merged": "C:\\android stdio\\NewsClient\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\android stdio\\NewsClient\\ImageLoader_sample\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\android stdio\\NewsClient\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stub.png",
+        "source": "C:\\android stdio\\NewsClient\\ImageLoader_sample\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "C:\\android stdio\\NewsClient\\ImageLoader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_error.png",
+        "source": "C:\\android stdio\\NewsClient\\ImageLoader_sample\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    }
+]
